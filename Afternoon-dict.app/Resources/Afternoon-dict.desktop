@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Categories=X-GNUstep;
+Name=Afternoon-dict
+StartupWMClass=Afternoon-dict
+Comment=No description avaliable!
+Exec=/usr/bin/openapp Afternoon-dict
